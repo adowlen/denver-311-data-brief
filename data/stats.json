@@ -1,0 +1,1002 @@
+{
+ "2024": {
+  "year": "2024",
+  "rows": 455214,
+  "topics": [
+   [
+    "911 NECT KEEP",
+    33872
+   ],
+   [
+    "Property Tax Information / Statements",
+    16472
+   ],
+   [
+    "Other",
+    15847
+   ],
+   [
+    "Encampment Reporting",
+    12329
+   ],
+   [
+    "Online Report, General Info",
+    11926
+   ],
+   [
+    "DMV & State",
+    11721
+   ],
+   [
+    "City & County of Denver",
+    9533
+   ],
+   [
+    "Sheriff - Abandoned vehicle",
+    8436
+   ],
+   [
+    "Registration / Issues",
+    7601
+   ],
+   [
+    "New Business License",
+    7146
+   ],
+   [
+    "DPD - Non Emergency/ General Info",
+    6975
+   ],
+   [
+    "Mail Ballot",
+    6411
+   ],
+   [
+    "Courts",
+    6034
+   ],
+   [
+    "Service Delay",
+    6003
+   ],
+   [
+    "Sales/OPT/Use/Lodgers Tax",
+    5850
+   ],
+   [
+    "Denver Non Emergent Dispatch",
+    5494
+   ],
+   [
+    "Service Schedule",
+    5293
+   ],
+   [
+    "Renewal Business License",
+    5075
+   ],
+   [
+    "No Weapons/No Safety Concerns",
+    4643
+   ],
+   [
+    "Property Information (NOT Tax Information)",
+    4576
+   ],
+   [
+    "Weeds/Vegetation Violation",
+    4529
+   ],
+   [
+    "Information/Inquiry",
+    4413
+   ],
+   [
+    "Permits",
+    4193
+   ],
+   [
+    "Trespass / Unwanted Person",
+    4095
+   ],
+   [
+    "Pothole",
+    4002
+   ]
+  ],
+  "agencies": [
+   [
+    "Safety",
+    113300
+   ],
+   [
+    "Finance",
+    62912
+   ],
+   [
+    "Public Works",
+    53313
+   ],
+   [
+    "Excise & License",
+    44763
+   ],
+   [
+    "311",
+    41374
+   ],
+   [
+    "Public Health & Environment",
+    30429
+   ],
+   [
+    "Clerk & Recorder",
+    29900
+   ],
+   [
+    "Community Planning & Development",
+    23115
+   ],
+   [
+    "Mayor's Office",
+    15663
+   ],
+   [
+    "External Agency",
+    14381
+   ],
+   [
+    "City Council",
+    10515
+   ],
+   [
+    "Parks & Recreation",
+    8560
+   ],
+   [
+    "Denver Human Services",
+    4314
+   ],
+   [
+    "Tech Services",
+    2673
+   ],
+   [
+    "Auditor's Office",
+    1
+   ]
+  ],
+  "statuses": [
+   [
+    "Closed - Answer Provided",
+    216787
+   ],
+   [
+    "Closed - Transferred to External Agency",
+    106793
+   ],
+   [
+    "Closed - Approved",
+    45116
+   ],
+   [
+    "New",
+    24969
+   ],
+   [
+    "Closed - Out of Jurisdiction",
+    13826
+   ],
+   [
+    "Routed to Agency",
+    11674
+   ],
+   [
+    "Closed - Other",
+    11187
+   ],
+   [
+    "Closed - Not Enough Info",
+    4735
+   ],
+   [
+    "Closed - Scheduled",
+    4178
+   ],
+   [
+    "Closed - Spam",
+    3305
+   ],
+   [
+    "Closed - Duplicate Case",
+    3186
+   ],
+   [
+    "Closed - Service Completed",
+    2164
+   ],
+   [
+    "Closed - Duplicate",
+    1716
+   ],
+   [
+    "Closed - No Response from Customer",
+    953
+   ],
+   [
+    "Closed - Canceled",
+    856
+   ]
+  ],
+  "sources": [
+   [
+    "Phone",
+    332295
+   ],
+   [
+    "PocketGov",
+    57693
+   ],
+   [
+    "Email - Mayor's Office",
+    13487
+   ],
+   [
+    "City Council 10",
+    9387
+   ],
+   [
+    "Email - EXL Licenses",
+    8697
+   ],
+   [
+    "Email - EXL Applications",
+    6350
+   ],
+   [
+    "Email - EXL Submit",
+    5051
+   ],
+   [
+    "Fax",
+    4068
+   ],
+   [
+    "Email - City Clerk",
+    4053
+   ],
+   [
+    "Email - Alarms",
+    4001
+   ]
+  ],
+  "monthly": {
+   "2024-01": 37679,
+   "2024-02": 41842,
+   "2024-03": 38501,
+   "2024-04": 42200,
+   "2024-05": 39589,
+   "2024-06": 37613,
+   "2024-07": 40490,
+   "2024-08": 35743,
+   "2024-09": 34657,
+   "2024-10": 41527,
+   "2024-11": 32351,
+   "2024-12": 33022
+  },
+  "closed_valid": 417607,
+  "res_median": 0.0003125,
+  "res_p90": 3.666898148148148,
+  "res_mean": 2.9142652816401724,
+  "same_day_rate": 0.8357834040138216,
+  "fcr_y_rate": 0.9776896141155589,
+  "districts": {
+   "7": {
+    "n": 7750,
+    "median": 1.0428761574074072,
+    "p90": 16.493784722222223
+   },
+   "5": {
+    "n": 6271,
+    "median": 1.0599421296296296,
+    "p90": 25.98244212962963
+   },
+   "3": {
+    "n": 7245,
+    "median": 0.7630787037037037,
+    "p90": 13.991979166666667
+   },
+   "10": {
+    "n": 8369,
+    "median": 0.9445370370370371,
+    "p90": 12.990405092592592
+   },
+   "8": {
+    "n": 5598,
+    "median": 0.8224826388888888,
+    "p90": 12.115960648148148
+   },
+   "1": {
+    "n": 6772,
+    "median": 0.9640856481481481,
+    "p90": 20.790532407407408
+   },
+   "4": {
+    "n": 4815,
+    "median": 1.0001851851851853,
+    "p90": 13.668888888888889
+   },
+   "11": {
+    "n": 3329,
+    "median": 0.6686921296296297,
+    "p90": 15.148368055555556
+   },
+   "6": {
+    "n": 4660,
+    "median": 1.0159837962962963,
+    "p90": 16.584467592592592
+   },
+   "9": {
+    "n": 7483,
+    "median": 0.9085185185185185,
+    "p90": 14.9884375
+   },
+   "2": {
+    "n": 3455,
+    "median": 0.7065277777777778,
+    "p90": 10.090057870370371
+   }
+  },
+  "hoods": {},
+  "hoods_p90": {}
+ },
+ "2025": {
+  "year": "2025",
+  "rows": 451943,
+  "topics": [
+   [
+    "911 NECT KEEP",
+    58756
+   ],
+   [
+    "Property Tax Information / Statements",
+    14865
+   ],
+   [
+    "Other",
+    13133
+   ],
+   [
+    "DMV & State",
+    11384
+   ],
+   [
+    "Registration / Issues",
+    11102
+   ],
+   [
+    "Service Delay",
+    10027
+   ],
+   [
+    "Sheriff - Abandoned vehicle",
+    7708
+   ],
+   [
+    "Service Schedule",
+    7659
+   ],
+   [
+    "Sales/OPT/Use/Lodgers Tax",
+    7118
+   ],
+   [
+    "City & County of Denver",
+    7101
+   ],
+   [
+    "Encampment Reporting",
+    6965
+   ],
+   [
+    "DPD - Non Emergency/ General Info",
+    6877
+   ],
+   [
+    "911 EMERGENCY",
+    6464
+   ],
+   [
+    "Courts",
+    5879
+   ],
+   [
+    "New Business License",
+    5449
+   ],
+   [
+    "Other Agency (City Jail, 311, Civil Courts etc.)",
+    5071
+   ],
+   [
+    "Billing/Sidewalks",
+    5030
+   ],
+   [
+    "Property Information (NOT Tax Information)",
+    4869
+   ],
+   [
+    "Weeds/Vegetation Violation",
+    4853
+   ],
+   [
+    "Renewal Business License",
+    4228
+   ],
+   [
+    "Animal Adoption/Hold Inquiry",
+    3898
+   ],
+   [
+    "Denver Non Emergent Dispatch",
+    3718
+   ],
+   [
+    "OOJ",
+    3671
+   ],
+   [
+    "Permits",
+    3661
+   ],
+   [
+    "911 WELFARE CHECK",
+    3579
+   ]
+  ],
+  "agencies": [
+   [
+    "Safety",
+    134110
+   ],
+   [
+    "Finance",
+    67821
+   ],
+   [
+    "Public Works",
+    59827
+   ],
+   [
+    "Excise & License",
+    39861
+   ],
+   [
+    "311",
+    38357
+   ],
+   [
+    "Public Health & Environment",
+    30299
+   ],
+   [
+    "Community Planning & Development",
+    22840
+   ],
+   [
+    "Clerk & Recorder",
+    19411
+   ],
+   [
+    "External Agency",
+    11542
+   ],
+   [
+    "Mayor's Office",
+    11378
+   ],
+   [
+    "Parks & Recreation",
+    7904
+   ],
+   [
+    "City Council",
+    6298
+   ],
+   [
+    "Tech Services",
+    2267
+   ],
+   [
+    "Denver Human Services",
+    24
+   ],
+   [
+    "(blank)",
+    4
+   ]
+  ],
+  "statuses": [
+   [
+    "Closed - Answer Provided",
+    201210
+   ],
+   [
+    "Closed - Transferred to External Agency",
+    113029
+   ],
+   [
+    "Closed - Approved",
+    51050
+   ],
+   [
+    "New",
+    18946
+   ],
+   [
+    "Closed - Out of Jurisdiction",
+    17870
+   ],
+   [
+    "Closed - Other",
+    13595
+   ],
+   [
+    "Closed - Scheduled",
+    6846
+   ],
+   [
+    "Closed - In Compliance",
+    4561
+   ],
+   [
+    "Closed - Not Enough Info",
+    3681
+   ],
+   [
+    "Routed to Agency",
+    3343
+   ],
+   [
+    "Closed - Duplicate Case",
+    3012
+   ],
+   [
+    "Closed - No Violation Found",
+    2800
+   ],
+   [
+    "Closed - Spam",
+    2678
+   ],
+   [
+    "Closed - Service Completed",
+    2228
+   ],
+   [
+    "Closed - Duplicate",
+    1488
+   ]
+  ],
+  "sources": [
+   [
+    "Phone",
+    345757
+   ],
+   [
+    "PocketGov",
+    53075
+   ],
+   [
+    "Email - Mayor's Office",
+    10498
+   ],
+   [
+    "Email - EXL Submit",
+    6470
+   ],
+   [
+    "Email - EXL Applications",
+    6073
+   ],
+   [
+    "City Council 10",
+    6011
+   ],
+   [
+    "Email - EXL Licenses",
+    5811
+   ],
+   [
+    "Fax",
+    3713
+   ],
+   [
+    "Email - Alarms",
+    3555
+   ],
+   [
+    "Email - City Clerk",
+    2801
+   ]
+  ],
+  "monthly": {
+   "2025-01": 40278,
+   "2025-02": 36454,
+   "2025-03": 38538,
+   "2025-04": 41405,
+   "2025-05": 40978,
+   "2025-06": 41096,
+   "2025-07": 43233,
+   "2025-08": 37659,
+   "2025-09": 36075,
+   "2025-10": 36061,
+   "2025-11": 28888,
+   "2025-12": 31278
+  },
+  "closed_valid": 427802,
+  "res_median": 0.0004976851851851852,
+  "res_p90": 2.969189814814815,
+  "res_mean": 2.839291232502939,
+  "same_day_rate": 0.8450521502938275,
+  "fcr_y_rate": 0.9951077901416772,
+  "districts": {
+   "5": {
+    "n": 8975,
+    "median": 0.3207638888888889,
+    "p90": 20.072731481481483
+   },
+   "10": {
+    "n": 15900,
+    "median": 0.12445601851851852,
+    "p90": 7.854247685185185
+   },
+   "9": {
+    "n": 12843,
+    "median": 0.1950925925925926,
+    "p90": 16.135590277777776
+   },
+   "1": {
+    "n": 12234,
+    "median": 0.6453414351851852,
+    "p90": 29.021493055555556
+   },
+   "2": {
+    "n": 6645,
+    "median": 0.19289351851851852,
+    "p90": 20.96238425925926
+   },
+   "11": {
+    "n": 5941,
+    "median": 0.07670138888888889,
+    "p90": 7.491053240740741
+   },
+   "4": {
+    "n": 7398,
+    "median": 0.16999999999999998,
+    "p90": 7.031631944444444
+   },
+   "3": {
+    "n": 13306,
+    "median": 0.13883101851851853,
+    "p90": 20.06800925925926
+   },
+   "8": {
+    "n": 10412,
+    "median": 0.1127951388888889,
+    "p90": 11.812951388888889
+   },
+   "6": {
+    "n": 7552,
+    "median": 0.644988425925926,
+    "p90": 28.813483796296296
+   },
+   "7": {
+    "n": 13492,
+    "median": 0.5894675925925926,
+    "p90": 27.97230324074074
+   },
+   "Denver": {
+    "n": 1,
+    "median": 0.00318287037037037,
+    "p90": 0.00318287037037037
+   }
+  },
+  "hoods": {},
+  "hoods_p90": {}
+ },
+ "2023": {
+  "year": "2023",
+  "rows": 474695,
+  "rows_analyzed": 402918,
+  "topics": [
+   [
+    "Online Report, General Info",
+    43417
+   ],
+   [
+    "Encampment Reporting",
+    20816
+   ],
+   [
+    "Other",
+    13330
+   ],
+   [
+    "In Progress (TRANSFER 911)",
+    11829
+   ],
+   [
+    "Property Tax Information / Statements",
+    10573
+   ],
+   [
+    "Denver Non Emergent Dispatch",
+    10039
+   ],
+   [
+    "City & County of Denver",
+    9403
+   ],
+   [
+    "DPD - Non Emergency/ General Info",
+    8282
+   ],
+   [
+    "Registration / Issues",
+    8271
+   ],
+   [
+    "DMV & State",
+    8012
+   ],
+   [
+    "Sheriff - Abandoned vehicle",
+    6881
+   ],
+   [
+    "New Business License",
+    6843
+   ],
+   [
+    "Weeds/Vegetation Violation",
+    6349
+   ],
+   [
+    "Sales/OPT/Use/Lodgers Tax",
+    5608
+   ],
+   [
+    "Pothole",
+    5534
+   ],
+   [
+    "Renewal Business License",
+    5333
+   ],
+   [
+    "Cold/Confirmed No Suspect on Scene",
+    5068
+   ],
+   [
+    "Courts",
+    4840
+   ],
+   [
+    "Information/Inquiry",
+    4633
+   ],
+   [
+    "No Weapons/No Safety Concerns",
+    4116
+   ],
+   [
+    "Service Schedule",
+    4086
+   ],
+   [
+    "Marriage Application/Online/ Appointment",
+    3710
+   ],
+   [
+    "Permits",
+    3375
+   ],
+   [
+    "Application",
+    3150
+   ],
+   [
+    "Title / Issues",
+    3148
+   ]
+  ],
+  "agencies": [
+   [
+    "Safety",
+    123222
+   ],
+   [
+    "Finance",
+    51237
+   ],
+   [
+    "Public Works",
+    46412
+   ],
+   [
+    "311",
+    41744
+   ],
+   [
+    "Excise & License",
+    35619
+   ],
+   [
+    "Public Health & Environment",
+    23488
+   ],
+   [
+    "Community Planning & Development",
+    20444
+   ],
+   [
+    "Clerk & Recorder",
+    20302
+   ],
+   [
+    "External Agency",
+    14836
+   ],
+   [
+    "Mayor's Office",
+    9131
+   ],
+   [
+    "Parks & Recreation",
+    6946
+   ],
+   [
+    "City Council",
+    5562
+   ]
+  ],
+  "statuses": [
+   [
+    "Closed - Answer Provided",
+    201306
+   ],
+   [
+    "Closed - Transferred to External Agency",
+    93107
+   ],
+   [
+    "Closed - Approved",
+    35623
+   ],
+   [
+    "New",
+    18100
+   ],
+   [
+    "Closed - Other",
+    11185
+   ],
+   [
+    "Closed - Out of Jurisdiction",
+    10299
+   ],
+   [
+    "Routed to Agency",
+    8246
+   ],
+   [
+    "Closed - Not Enough Info",
+    4533
+   ],
+   [
+    "Closed - Duplicate Case",
+    4015
+   ],
+   [
+    "Closed - Scheduled",
+    3149
+   ],
+   [
+    "Closed - Spam",
+    2742
+   ],
+   [
+    "Closed - No Violation Found",
+    1839
+   ]
+  ],
+  "monthly": {
+   "2023-02": 9674,
+   "2023-03": 43931,
+   "2023-04": 38534,
+   "2023-05": 42971,
+   "2023-06": 41081,
+   "2023-07": 40851,
+   "2023-08": 42654,
+   "2023-09": 36949,
+   "2023-10": 39314,
+   "2023-11": 34928,
+   "2023-12": 32031
+  },
+  "closed_valid": 375998,
+  "res_median": 0.00030092592592592595,
+  "res_p90": 3.9885532407407407,
+  "res_mean": 2.998768770046649,
+  "same_day_rate": 0.8303714381459476,
+  "districts": {
+   "2": {
+    "n": 4287,
+    "median": 0.73,
+    "p90": 21.2,
+    "sameday": 0.568
+   },
+   "6": {
+    "n": 7091,
+    "median": 1.76,
+    "p90": 26.6,
+    "sameday": 0.447
+   },
+   "9": {
+    "n": 10737,
+    "median": 0.99,
+    "p90": 20.3,
+    "sameday": 0.503
+   },
+   "7": {
+    "n": 9985,
+    "median": 1.09,
+    "p90": 22.1,
+    "sameday": 0.484
+   },
+   "8": {
+    "n": 7409,
+    "median": 0.87,
+    "p90": 19.8,
+    "sameday": 0.53
+   },
+   "1": {
+    "n": 9728,
+    "median": 1.69,
+    "p90": 26.0,
+    "sameday": 0.446
+   },
+   "10": {
+    "n": 10094,
+    "median": 1.08,
+    "p90": 22.8,
+    "sameday": 0.485
+   },
+   "5": {
+    "n": 7556,
+    "median": 1.07,
+    "p90": 25.2,
+    "sameday": 0.488
+   },
+   "11": {
+    "n": 4217,
+    "median": 0.49,
+    "p90": 15.8,
+    "sameday": 0.609
+   },
+   "3": {
+    "n": 7674,
+    "median": 0.86,
+    "p90": 22.7,
+    "sameday": 0.533
+   },
+   "4": {
+    "n": 6139,
+    "median": 0.97,
+    "p90": 27.0,
+    "sameday": 0.508
+   }
+  }
+ }
+}
