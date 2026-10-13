@@ -34,3 +34,11 @@ Requires Python 3 with matplotlib.
 ## Caveats (short version)
 
 The published Topic/Type/Neighborhood fields are blank in all three files — topics come from free-text Case Summary. Council-district coding is complete in 2023 but sparse in 2024/2025, so cross-year district comparisons are unreliable. "911 NECT KEEP" appears from ~April 2024; "Encampment / Street Engagement" splits off "Encampment Reporting" in September 2025. Full caveats in the brief.
+
+## Methods and data
+
+The analysis uses the public datasets listed under Data sources. The scripts in [code/](code/) download and analyze the yearly files, write the aggregate statistics in [data/stats.json](data/stats.json), and generate the charts. Coding limits and the full caveat set are documented in the [full brief](brief/denver-311-brief.md) and in Caveats (short version) above.
+
+## Part of Machine Readable
+
+This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
